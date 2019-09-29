@@ -4,4 +4,4 @@ my work
 
 [Сайт №1](shapirko-sasha.github.io/ "my first work")
 
-[Сайт №2](shapirko-sasha.github.io/Site2 "my second work")
+[Сайт №2](shapirko-sasha.github.io/Site2/ "my second work")
